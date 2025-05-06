@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlxuiSCAaeXXUMiZzpuMNztJqa0TW_rfTGt44fzdF_60yI4mvtV74cTA&s=10" width="200">
+</p>
+
 <div align="center">
   <h2>KNOWLEDGE</h2>
 </div>
