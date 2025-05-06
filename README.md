@@ -15,12 +15,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ryouiechziell&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryouiechziell&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <h2>CONTACS</h2>
-</div>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nazril) 
-
 
 <div align="center">
   <h2>ABOUT ME</h2>
@@ -29,3 +23,11 @@
 <div>
   <b>•</b><h4>Name :</h4><p>Nazril</p>
 </div>
+
+
+
+<div align="center">
+  <h2>CONTACS</h2>
+</div>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nazril) 
