@@ -20,3 +20,9 @@
 </div>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nazril) 
+
+<div align="center">
+  <h2>ABOUT ME</h2>
+</div>
+
+<b>•</b><h4>Name :</h4> <p>Nazril</p>
