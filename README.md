@@ -9,7 +9,7 @@
 </div>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ryouiechziell&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryouiechziell&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryouiechziell&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
   <h2>CONTACS</h2>
