@@ -6,7 +6,7 @@
   <h3>TOTAL VISITOR</h3>
 </div>
 
-![Visitor](https://count.getloli.com/get/@Ryouiechziell.Ryouiechziell?theme=rule34)
+![Visitor](https://count.getloli.com/get/@Ryouiechziell.Ryouiechziell?theme=shizuku)
 
 <div align="center">
   <h2>KNOWLEDGE</h2>
