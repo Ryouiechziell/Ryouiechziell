@@ -22,13 +22,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryouiechziell&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<div align="center">
-  <h2>ABOUT ME</h2>
-</div>
+<h2 align="center">ABOUT ME</h2>
 
-** ### Name: #### Nazril
+<li>
+  <ul><b>Name :</b> Nazril</ul>
+  <ul><b>Hobbys :</b> Web development,Internet Of Things,Anime</ul>
+</li>
 
-
+<br>
 
 <div align="center">
   <h2>CONTACS</h2>
