@@ -3,6 +3,12 @@
 </p>
 
 <div align="center">
+  <h3>TOTAL VISITOR</h3>
+</div>
+
+![Visitor](https://count.getloli.com/get/@Ryouiechziell.Ryouiechziell?theme=konachan)
+
+<div align="center">
   <h2>KNOWLEDGE</h2>
 </div>
 
