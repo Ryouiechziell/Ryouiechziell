@@ -2,7 +2,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlxuiSCAaeXXUMiZzpuMNztJqa0TW_rfTGt44fzdF_60yI4mvtV74cTA&s=10" width="800" height="150">
 </div>
 
-<h3 align="center">TOTAL VISITOR</h3>
+<h2 align="center">TOTAL VISITOR</h2>
 
 ![Visitor](https://count.getloli.com/get/@Ryouiechziell.Ryouiechziell?theme=shizuku)
 
@@ -24,4 +24,4 @@
 
 <h2 align="center">CONTACS</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/user/09188383829298) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ryouiechziell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ryouiechziell07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazril) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ryouiechziell07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadnazril610@gmail.com)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1363428995944939674) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ryouiechziell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ryouiechziell07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazril) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ryouiechziell07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadnazril610@gmail.com)  
