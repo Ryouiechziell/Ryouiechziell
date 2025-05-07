@@ -18,10 +18,8 @@
 
 <h2 align="center">ABOUT ME</h2>
 
-<ul align="left">
-  <li><b>Name</b>: Nazril</li>
-  <li><b>Hobbys</b>: Web development,Internet Of Things,Anime</li>
-</ul>
+<li><b>Name</b>: Nazril</li>
+<li><b>Hobbys</b>: Web development,Internet Of Things,Anime</li>
 
 
 <h2 align="center">CONTACS</h2>
