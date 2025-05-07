@@ -1,12 +1,12 @@
-<p align="center">
+<div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlxuiSCAaeXXUMiZzpuMNztJqa0TW_rfTGt44fzdF_60yI4mvtV74cTA&s=10" width="800" height="150">
-</p>
+</div>
 
 <h3 align="center">TOTAL VISITOR</h3>
 
 ![Visitor](https://count.getloli.com/get/@Ryouiechziell.Ryouiechziell?theme=shizuku)
 
-  <h2 align="center">KNOWLEDGE</h2>
+<h2 align="center">KNOWLEDGE</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -18,14 +18,12 @@
 
 <h2 align="center">ABOUT ME</h2>
 
-<ul>
+<ul align="left">
   <li><b>Name</b>: Nazril</li>
   <li><b>Hobbys</b>: Web development,Internet Of Things,Anime</li>
 </ul>
 
 
-<div align="center">
-  <h2>CONTACS</h2>
-</div>
+<h2 align="center">CONTACS</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nazril) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazril) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nazril) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazril) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nazril) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadnazril610@gmail.com)  
