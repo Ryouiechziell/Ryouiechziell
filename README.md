@@ -17,7 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ryouiechziell&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryouiechziell&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="center" height="160" width="500" src="https://github.com/Ryouiechziell/Ryouiechziell/blob/output/github-snake-dark.svg">
+<img align="center" height="250" width="800" src="https://github.com/Ryouiechziell/Ryouiechziell/blob/output/github-snake-dark.svg">
 </img>
 
 <h2 align="center">ABOUT ME</h2>
