@@ -22,8 +22,10 @@
 <h2 align="center">ABOUT ME</h2>
 
 <li><b>Name :</b> Nazril</li>
+<li><b>Gender :</b> Male</li>
 <li><b>Hobbys :</b> IoT, Anime, Web Development</li>
 
+<br>
 
 <h2 align="center">CONTACS</h2>
 
