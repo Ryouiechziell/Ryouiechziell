@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Ryouiechziell/Ryouiechziell/main/219085.gif" width="800" height="160">
+  <img src="https://raw.githubusercontent.com/Ryouiechziell/Ryouiechziell/main/219085.gif" width="800" height="160">
 </div>
 
 <h3 align="center">TOTAL VISITOR</h3>
