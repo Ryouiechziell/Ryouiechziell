@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlxuiSCAaeXXUMiZzpuMNztJqa0TW_rfTGt44fzdF_60yI4mvtV74cTA&s=10" width="800" height="160">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/785231626170618216/ACF73C52331812C072DB4083D1087A02C4834C9C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800" height="160">
 </div>
 
 <h3 align="center">TOTAL VISITOR</h3>
