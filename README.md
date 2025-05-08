@@ -14,10 +14,10 @@
 
 <h2 align="center">GITHUB STATS</h2>
 
+![snake gif](https://github.com/Ryouiechziell/Ryouiechziell/blob/output/github-snake.svg)
 ![](https://nirzak-streak-stats.vercel.app/?user=Ryouiechziell&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryouiechziell&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/Ryouiechziell/Ryouiechziell/blob/output/github-snake.svg)
 
 <h2 align="center">ABOUT ME</h2>
 
@@ -25,7 +25,7 @@
 <li><b>Gender :</b> Male</li>
 <li><b>Hobbys :</b> IoT, Anime, Web Development</li>
 
-<br>
+
 
 <h2 align="center">CONTACS</h2>
 
