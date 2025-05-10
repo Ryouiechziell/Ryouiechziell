@@ -6,7 +6,10 @@
 
 <br>
 
-![Visitor](https://count.getloli.com/get/@Ryouiechziell.Ryouiechziell?theme=rule34)
+<div align="center">
+  <img src="https://count.getloli.com/get/@Ryouiechziell.Ryouiechziell?theme=rule34" max-width="100%" height="auto">
+  </img>
+</div>
 
 <h2 align="center">KNOWLEDGE</h2>
 
@@ -15,8 +18,15 @@
 <h2 align="center">GITHUB STATS</h2>
 
 ![snake gif](https://github.com/Ryouiechziell/Ryouiechziell/blob/output/github-snake.svg)
-![](https://nirzak-streak-stats.vercel.app/?user=Ryouiechziell&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryouiechziell&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center"> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ryouiechziell&theme=blue_navy&hide_border=false" max-width="100%" height="auto"></img>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryouiechziell&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" max-width="100%" height="auto"></img>
+</div>
+  
 
 
 <h2 align="center">ABOUT ME</h2>
